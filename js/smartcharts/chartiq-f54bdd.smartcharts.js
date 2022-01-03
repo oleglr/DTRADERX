@@ -25444,7 +25444,7 @@
               t = [
                 "127.0.0.1",
                 "localhost",
-                "binary.com",
+                "xdtrader.web.app",
                 "binary.sx",
                 "binary.me",
                 "binary.bot",
@@ -41073,7 +41073,7 @@
                           (a = [
                             "127.0.0.1",
                             "localhost",
-                            "binary.com",
+                            "xdtrader.web.app",
                             "binary.sx",
                             "binary.me",
                             "binary.bot",
